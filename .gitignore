@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/test-laravel-movies
 .env
 .env.backup
 .phpunit.result.cache
@@ -11,3 +12,5 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+dev-movies-2e721fa477dd1fbe.zip
+movies-laravel-test.zip
